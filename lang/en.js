@@ -15,7 +15,7 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> Hello! I am Alba, a PhD student at the Vrije Universiteit, in Amsterdam, working under the supervision of Renee Hoekzema and Thomas Rot. </p>
+    <p> Hello! I am Alba, a PhD student at the Vrije Universiteit, in Amsterdam, working under the supervision of <a href="https://www.reneehoekzema.nl/">Renee Hoekzema</a> and <a href="https://www.few.vu.nl/~trt800/">Thomas Rot</a>. </p>
     <p> My research interests lie in the algebraic topology of manifolds. Namely, I like studying cobordisms between nested manifolds (manifolds with manifolds inside), as well as cutting and pasting equivariant manifolds.</p>
     <p> Before my PhD, I studied a Master in Advanced Mathematics at Universitat de Barcelona and a Grao en Matemáticas at Universidade de Santiago de Compostela.</p>
     <p>On the academic year 2026/2027, I am on the job market. My CV is available upon request.</p>

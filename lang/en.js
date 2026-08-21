@@ -29,87 +29,60 @@ const enHomePageData = {
 
 // ---------- Publications page data
 const enPublicationsPageData = {
-  type_one_title: "Journal Papers",
+  type_one_title: "Publications and writing",
 
   type_one_items: [
-    {
-      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
+      {
+      title: `Cobordism of nested manifolds`,
+      abstract: `We study cobordisms of nested manifolds, which are manifolds together with embedded submanifolds, which can themselves have embedded submanifolds, etc. We identify a nested analog of the Pontryagin-Thom construction. Moreover, when the highest-dimensional manifold has a normal bundle with a framed direction, we find spaces homotopy equivalent to the nested Pontryagin-Thom spaces that relate nested manifolds up to cobordism with links up to cobordism. This gives rise to nested cobordism invariants coming from previously studied cobordism invariants of links. In addition, we provide an alternative proof of a result by Wall about the splitting of the stable nested cobordism groups.`,
       date: "",
-      link: "http://link.com",
+      link: "https://arxiv.org/abs/2512.18277",
       github: "",
       download: "",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
+      writers: ["Alba Sendón Blanco".],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
-      date: "1996",
-      link: "",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla", ""],
-    },
-  ],
-
-  type_two_title: "Under Review",
-  type_two_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "1996",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
-    },
-  ],
-
-  type_three_title: "Book Chapters",
-  type_three_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
+      title: `Scissors congruence K-theory for equivariant manifolds`,
+      abstract: `We introduce a scissors congruence K-theory spectrum which lifts the equivariant scissors congruence groups for compact G-manifolds with boundary, and we show that on π0 this is the source of a spectrum level lift of the Burnside ring valued equivariant Euler characteristic of a compact G-manifold. We also show that the equivariant scissors congruence groups for varying subgroups assemble into a Mackey functor, which is a shadow of a conjectural higher genuine equivariant structure.`,
       date: "",
-      link: "",
+      link: "https://arxiv.org/abs/2501.06928",
       github: "",
-      writers: [],
+      writers: ["Mona Merling", "Ming Ng", "Julia Semikina", "Alba Sendón Blanco", "Lucas Williams".],
+    },
+   {
+      title: `La conjetura de Andrews Curtis`,
+      abstract: `The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      date: "",
+      link: "https://temat.es/articulo/2023-p1",
+      github: "",
+      writers: ["Alba Sendón Blanco".],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
+      title: `Modeling the homotopy theory of spaces via posets`,
+      abstract: `This is my master thesis, written under the supervision of Javier J. Gutiérrez Marín. The aim of this project is to study the basics of Quillen model structures as an essential tool in algebraic topology and abstract homotopy theory. In the first part, we will focus on the necessary background on category theory and homotopy theory in order to understand the notion of model structure and some fundamental constructions and tools within this framework. The second part will deal with particular examples of model structures. Namely, we will study Thomason's model structure on the category of small categories and how it relates to Kan-Quillen's model structure on simplicial sets via an equivalence of homotopy categories, providing a model for the homotopy theory of topological spaces. Finally, we will describe how the category of partially ordered sets inherits this model structure, offering yet another model for the homotopy theory of spaces. Moreover, we will analyze the relation between this structure and T0 Alexandroff spaces.`,
+      date: "",
+      link: "https://diposit.ub.edu/items/0bfe9626-9c64-47cb-9502-4d384e78073d",
+      github: "",
+      writers: ["Alba Sendón Blanco".],
+    },
+    {
+      title: `A conxectura de Andrews-Curtis`,
+      abstract: `This is my bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      date: "",
+      link: "https://minerva.usc.gal/entities/publication/8b88f269-6dd2-48aa-85db-b7d0fbd14212",
+      github: "",
+      writers: ["Alba Sendón Blanco".],
     },
   ],
+
+  type_two_title: "",
+  type_two_items: [],
+
+  type_three_title: "",
+  type_three_items: [],
 
   type_four_title: "",
-  type_four_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
-    },
-  ],
+  type_four_items: [],
 };
 
 // ---------- Research page data

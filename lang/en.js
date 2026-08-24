@@ -52,7 +52,7 @@ const enPublicationsPageData = {
     },
      {
       title: `La conjetura de Andrews Curtis`,
-      abstract: `The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      abstract: `This is an adaptation of my Bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
       date: "2023",
       link: "https://temat.es/articulo/2023-p1",
       github: "",
@@ -61,17 +61,17 @@ const enPublicationsPageData = {
     {
       title: `Modeling the homotopy theory of spaces via posets`,
       abstract: `This is my master thesis, written under the supervision of Javier J. Gutiérrez Marín. The aim of this project is to study the basics of Quillen model structures as an essential tool in algebraic topology and abstract homotopy theory. In the first part, we will focus on the necessary background on category theory and homotopy theory in order to understand the notion of model structure and some fundamental constructions and tools within this framework. The second part will deal with particular examples of model structures. Namely, we will study Thomason's model structure on the category of small categories and how it relates to Kan-Quillen's model structure on simplicial sets via an equivalence of homotopy categories, providing a model for the homotopy theory of topological spaces. Finally, we will describe how the category of partially ordered sets inherits this model structure, offering yet another model for the homotopy theory of spaces. Moreover, we will analyze the relation between this structure and T0 Alexandroff spaces.`,
-      date: "",
+      date: "2022",
       link: "https://diposit.ub.edu/items/0bfe9626-9c64-47cb-9502-4d384e78073d",
-      github: "2022",
+      github: "",
       writers: ["Alba Sendón Blanco"],
     },
     {
       title: `A conxectura de Andrews-Curtis`,
       abstract: `This is my bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
-      date: "",
+      date: "2021",
       link: "https://minerva.usc.gal/entities/publication/8b88f269-6dd2-48aa-85db-b7d0fbd14212",
-      github: "2021",
+      github: "",
       writers: ["Alba Sendón Blanco"],
     },
 

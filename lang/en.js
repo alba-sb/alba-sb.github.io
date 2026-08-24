@@ -52,7 +52,7 @@ const enPublicationsPageData = {
     },
      {
       title: `La conjetura de Andrews Curtis`,
-      abstract: `This is an adaptation of my Bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      abstract: `This is an adaptation of my bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
       date: "2023",
       link: "https://temat.es/articulo/2023-p1",
       github: "",

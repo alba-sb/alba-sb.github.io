@@ -35,11 +35,20 @@ const enPublicationsPageData = {
     {
       title: `Cobordism of nested manifolds.`,
       abstract: `We study cobordisms of nested manifolds, which are manifolds together with embedded submanifolds, which can themselves have embedded submanifolds, etc. We identify a nested analog of the Pontryagin-Thom construction. Moreover, when the highest-dimensional manifold has a normal bundle with a framed direction, we find spaces homotopy equivalent to the nested Pontryagin-Thom spaces that relate nested manifolds up to cobordism with links up to cobordism. This gives rise to nested cobordism invariants coming from previously studied cobordism invariants of links. In addition, we provide an alternative proof of a result by Wall about the splitting of the stable nested cobordism groups.`,
-      date: "2026",
+      date: "2025",
       link: "https://arxiv.org/abs/2512.18277",
       github: "",
       download: "",
       writers: ["Alba Sendón Blanco"],
+    },
+   {
+      title: `Scissors congruence K-theory for equivariant manifolds.`,
+      abstract: `We introduce a scissors congruence K-theory spectrum which lifts the equivariant scissors congruence groups for compact G-manifolds with boundary, and we show that on π0 this is the source of a spectrum level lift of the Burnside ring valued equivariant Euler characteristic of a compact G-manifold. We also show that the equivariant scissors congruence groups for varying subgroups assemble into a Mackey functor, which is a shadow of a conjectural higher genuine equivariant structure.`,
+      date: "2025",
+      link: "https://arxiv.org/abs/2501.06928",
+      github: "",
+      download: "",
+      writers: ["Mona Merling", "Ming Ng", "Julia Semikina", "Alba Sendón Blanco", "Lucas Williams"],
     },
   ],
 

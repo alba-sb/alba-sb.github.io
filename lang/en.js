@@ -39,7 +39,7 @@ const enPublicationsPageData = {
       link: "https://arxiv.org/abs/2512.18277",
       github: "",
       download: "",
-      writers: ["Alba Sendón Blanco".],
+      writers: ["Alba Sendón Blanco"],
     },
   ],
 

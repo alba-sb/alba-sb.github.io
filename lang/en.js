@@ -114,31 +114,6 @@ const enResearchPageData = {
           <li>[2021] IX Encuentro de Jóvenes Topólogos, Sevilla. <i>``La conjetura de Andrews-Curtis''</i>.</li>
         </ul>
     </div>
-    <div>
-      <h4 style="font-size: 1.1rem "> Seminar talks </h4>
-       <ul>
-          <li>[2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Amsterdam. <i>``Quillen's argument for homological stability''</i>.</li>
-          <li>[2026] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">CTA2 Arbeitsgemeinschaft</a>, Amsterdam. <i>``Bananas''}</i>.</li>
-          <li>[2025] Preprint presentation, Copenhagen. <i>``The Barrat-Priddy-Quillen theorem via scanning methods''</i>.</li>
-          <li>[2025] Coolloquium, Copenhagen. <i>``Cool stuff (a.k.a. manifolds)''</i>.</li>
-          <li>[2025] Preprint presentation, Copenhagen. <i>``Framed configuration spaces and exotic spheres''</i>.</li>
-          <li>[2024] <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar">Factorisation Homology Seminar </a>, Utrecht. <i>``oo-categories of manifolds and sheaves''</i>.</li>
-          <li>[2024] <a href="https://www.math.ru.nl/~sagave/east2024/">European Autumn School in Topology</a>, Utrecht. Preparatory talk: <i>``Algebraic K-theory''</i>.</li>
-          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>``Bananas''</i>.</li>
-          <li>[2023] Nutshell Seminar, Amsterdam. <i>``Bananas in a nutshell''</i>.</li>
-          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>``The stability theorem''</i>.</li>
-        </ul>
-    </div>
-    <div>
-      <h4 style="font-size: 1.1rem "> Contributed posters </h4>
-       <ul>
-          <li>[2024] VU Amsterdam Research fair. <i>``Arts and crafts with manifolds''</i>. Won one of the prizes. <a href="https://www.cta2.nl/poster-prices-for-riya-dogra-and-alba-sendon-blanco/">Proof</a>.</li>
-          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XXIX Encuentro de Topología</a>, Madrid. <i>``Cobordismo: clásico vs anidado''}</i>.</li>
-          <li>[2022] <a href="https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/january-2022-posters">Applied Algebraic Topology Research Network poster session</a>, online. <i>``Simplicial-map neural networks and proposals for the improvement of its efficiency''</i>.</li>
-          <li>[2022] <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a>, Copenhagen. <i>``Simple homotopy type and rings''</i>.</li>
-          <li>[2021] XXVII Encuentro de Topología, Sevilla. <i>``Simplicial-map neural networks y propuestas para la mejora de su eficiencia''</i>.</li>
-        </ul>
-    </div>
   `,
 };
 

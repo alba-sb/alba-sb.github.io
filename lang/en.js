@@ -95,7 +95,7 @@ const enResearchPageData = {
       <h4 style="font-size: 1.1rem "> Invited talks </h4>
        <ul>
           <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>``Cobordism of nested manifolds''</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
-          <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>``Scissors congruence K-theory for equivariant manifolds''}</i>, with Ming Ng and Lucas Williams. <a href="files/philly.jpg"> Proof</a>.</li>
+          <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>``Scissors congruence K-theory for equivariant manifolds''}</i>, with Ming Ng and Lucas Williams. <a href="files\philly.jpg"> Proof</a>.</li>
           <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>``Scissors congruence K-theory for equivariant manifolds''</i>.</li>
           <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>``A (very introductory) introduction to intersection (co)homology''</i>.</li>
           <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>``Una introducción (muy introductoria) a la (co)homología de intersección''</i> and <i>''Sobre la zona de duda´´</i>.</li>
@@ -107,9 +107,9 @@ const enResearchPageData = {
       <h4 style="font-size: 1.1rem "> Contributed talks </h4>
        <ul>
           <li>[2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen. <i>``Nested Pontryagin-Thom construction and nested boundaries''</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
-          <li>[2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid. <i>``Teoría K-algebraica de cortado y pegado para variedades equivariantes''</i>.<a href="files/madrid.jpg"> Proof</a>.</li>
-          <li>[2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm. <i>``Scissors congruence K-theory for equivariant manifolds''</i>.<a href="files/stockholm.jpg"> Proof</a>.</li>
-          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante. <i>``Cobordismo: clásico vs anidado''</i>.<a href="files/alicante.jpg"> Proof</a>.</li>
+          <li>[2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid. <i>``Teoría K-algebraica de cortado y pegado para variedades equivariantes''</i>.<a href="files\madrid.jpg"> Proof</a>.</li>
+          <li>[2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm. <i>``Scissors congruence K-theory for equivariant manifolds''</i>.<a href="files\stockholm.jpg"> Proof</a>.</li>
+          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante. <i>``Cobordismo: clásico vs anidado''</i>.<a href="files\alicante.jpg"> Proof</a>.</li>
           <li>[2023] <a href="https://rsmejovenes23.unileon.es/">VI Congreso de Jóvenes Investigadores de la RSME</a>, León. <i>``Una introducción (muy introductoria) a la (co)homología de intersección''</i>.
           <li>[2021] IX Encuentro de Jóvenes Topólogos, Sevilla. <i>``La conjetura de Andrews-Curtis''</i>.</li>
         </ul>

@@ -94,13 +94,13 @@ const enResearchPageData = {
     <div>
       <h4 style="font-size: 1.1rem "> Invited talks </h4>
        <ul>
-          <li>(2026) <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>Cobordism of nested manifolds</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
-          <li>(2025) <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>Scissors congruence K-theory for equivariant manifolds</i>, with Ming Ng and Lucas Williams.</li>
-          <li>(2025) <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>
-          <li>(2023) Topology Workshop, Universidade de Santiago de Compostela. <i>A (very introductory) introduction to intersection (co)homology</i>.</li>
-          <li>(2022) Seminario CIMAGROUP, Universidad de Sevilla. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i> and <i>Sobre la zona de duda</i>.</li>
-          <li>(2022) Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>Modelando a teoría homotópica dos espazos vía posets</i>.</li>
-          <li>(2021) Círculo matemático virtual, online. <i>Topological Data Analysis</i>.<a href="https://www.instagram.com/p/CWLEvR1Ij2A/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ=="> Proof</a>.</li>
+          <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>Cobordism of nested manifolds</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
+          <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>Scissors congruence K-theory for equivariant manifolds</i>, with Ming Ng and Lucas Williams.</li>
+          <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>
+          <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>A (very introductory) introduction to intersection (co)homology</i>.</li>
+          <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i> and <i>Sobre la zona de duda</i>.</li>
+          <li>[2022] Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>Modelando a teoría homotópica dos espazos vía posets</i>.</li>
+          <li>[2021] Círculo matemático virtual, online. <i>Topological Data Analysis</i>.<a href="https://www.instagram.com/p/CWLEvR1Ij2A/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ=="> Proof</a>.</li>
         </ul>
     </div>
       <div>

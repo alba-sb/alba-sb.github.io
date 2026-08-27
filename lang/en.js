@@ -94,7 +94,7 @@ const enResearchPageData = {
     <div>
       <h4 style="font-size: 1.1rem "> Invited talks </h4>
        <ul>
-          <li>(2026) <a href="https://friday-fish.github.io/">Link</a>, place. <i>"Talk"</i>.</li>
+          <li>(2026) Talk.</li>
           <li>(2025) Talk.</li>
         </ul>
     </div>

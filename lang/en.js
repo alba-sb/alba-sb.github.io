@@ -2,8 +2,8 @@
 const enNavbarData = {
   title: " Alba Sendón Blanco ",
   Home: "Home",
-  publications: "publications",
-  Research: "Research",
+  publications: "Publications",
+  Research: "Talks",
   Jobs: "Jobs",
   Contact: "Contact",
 };
@@ -94,21 +94,57 @@ const enResearchPageData = {
     <div>
       <h4 style="font-size: 1.1rem "> Invited talks </h4>
        <ul>
-          <li>Talk 1</li>
-          <li>Talk 2</li>
-          <li>Talk 3</li>
+          <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>``Cobordism of nested manifolds''</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
+          <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>``Scissors congruence K-theory for equivariant manifolds''}</i>, with Ming Ng and Lucas Williams. <a href="files/philly.jpg"> Proof</a>.</li>
+          <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>``Scissors congruence K-theory for equivariant manifolds''</i>.</li>
+          <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>``A (very introductory) introduction to intersection (co)homology''</i>.</li>
+          <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>``Una introducción (muy introductoria) a la (co)homología de intersección''</i> and <i>''Sobre la zona de duda´´</i>.</li>
+          <li>[2022] Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>``Modelando a teoría homotópica dos espazos vía posets''</i>.</li>
+          <li>[2021] Círculo matemático virtual, online. <i>``Topological Data Analysis''</i>.<a href="https://www.instagram.com/p/CWLEvR1Ij2A/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ=="> Proof</a>.</li>
         </ul>
     </div>
         <div>
       <h4 style="font-size: 1.1rem "> Contributed talks </h4>
        <ul>
-          <li>Talk 1</li>
-          <li>Talk 2</li>
-          <li>Talk 3</li>
+          <li>[2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen. <i>``Nested Pontryagin-Thom construction and nested boundaries''</i>.<a href="https://www.youtube.com/watch?v=f_wVdzI1K3k"> Proof</a>.</li>
+          <li>[2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid. <i>``Teoría K-algebraica de cortado y pegado para variedades equivariantes''</i>.<a href="files/madrid.jpg"> Proof</a>.</li>
+          <li>[2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm. <i>``Scissors congruence K-theory for equivariant manifolds''</i>.<a href="files/stockholm.jpg"> Proof</a>.</li>
+          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante. <i>``Cobordismo: clásico vs anidado''</i>.<a href="files/alicante.jpg"> Proof</a>.</li>
+          <li>[2023] <a href="https://rsmejovenes23.unileon.es/">VI Congreso de Jóvenes Investigadores de la RSME</a>, León. <i>``Una introducción (muy introductoria) a la (co)homología de intersección''</i>.
+          <li>[2021] IX Encuentro de Jóvenes Topólogos, Sevilla. <i>``La conjetura de Andrews-Curtis''</i>.</li>
+        </ul>
+    </div>
+    <div>
+      <h4 style="font-size: 1.1rem "> Seminar talks </h4>
+       <ul>
+          <li>[2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Amsterdam. <i>``Quillen's argument for homological stability''</i>.</li>
+          <li>[2026] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">CTA2 Arbeitsgemeinschaft</a>, Amsterdam. <i>``Bananas''}</i>.</li>
+          <li>[2025] Preprint presentation, Copenhagen. <i>``The Barrat-Priddy-Quillen theorem via scanning methods''</i>.</li>
+          <li>[2025] Coolloquium, Copenhagen. <i>``Cool stuff (a.k.a. manifolds)''</i>.</li>
+          <li>[2025] Preprint presentation, Copenhagen. <i>``Framed configuration spaces and exotic spheres''</i>.</li>
+          <li>[2024] <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar">Factorisation Homology Seminar </a>, Utrecht. <i>``oo-categories of manifolds and sheaves''</i>.</li>
+          <li>[2024] <a href="https://www.math.ru.nl/~sagave/east2024/">European Autumn School in Topology</a>, Utrecht. Preparatory talk: <i>``Algebraic K-theory''</i>.</li>
+          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>``Bananas''</i>.</li>
+          <li>[2023] Nutshell Seminar, Amsterdam. <i>``Bananas in a nutshell''</i>.</li>
+          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>``The stability theorem''</i>.</li>
+        </ul>
+    </div>
+    <div>
+      <h4 style="font-size: 1.1rem "> Contributed posters </h4>
+       <ul>
+          <li>[2024] VU Amsterdam Research fair. <i>``Arts and crafts with manifolds''</i>. Won one of the prizes. <a href="https://www.cta2.nl/poster-prices-for-riya-dogra-and-alba-sendon-blanco/" >Proof</a>.</li>
+          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XXIX Encuentro de Topología</a>, Madrid. <i>``Cobordismo: clásico vs anidado''}</i>.</li>
+          <li>[2022] <a href="https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/january-2022-posters">Applied Algebraic Topology Research Network poster session</a>, online. <i>``Simplicial-map neural networks and proposals for the improvement of its efficiency''</i>.</li>
+          <li>[2022] <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a>, Copenhagen. <i>``Simple homotopy type and rings''</i>.</li>
+          <li>[2021] XXVII Encuentro de Topología, Sevilla. <i>``Simplicial-map neural networks y propuestas para la mejora de su eficiencia''</i>.</li>
         </ul>
     </div>
   `,
 };
+
+
+
+
 
 // ---------- Jobs page data
 const enJobsPageData = {

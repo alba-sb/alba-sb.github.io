@@ -65,7 +65,7 @@ $(document).ready(function () {
               <img src=${link.img} /> ${link.name}
             </li>`
       )
-      .join("");
+      ;
 
     document.getElementById("home_title").innerText =
       lang === "en" ? enHomePageData.home_title : faHomePageData.home_title;

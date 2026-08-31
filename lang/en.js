@@ -19,8 +19,14 @@ const enHomePageData = {
     <p> My research interests lie in the algebraic topology of manifolds. Namely, I like studying cobordisms between nested manifolds (manifolds with manifolds inside), as well as cutting and pasting equivariant manifolds.</p>
     <p> Before my PhD, I studied a Master in Advanced Mathematics at Universitat de Barcelona and a Grao en Matemáticas at Universidade de Santiago de Compostela.</p>
     <p>On the academic year 2026/2027, I am on the job market. My CV is available upon request.</p>
-    <h2 class='title'> News? </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <h2 class='title'> News </h2>
+    <ul>
+      <li> [June 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> has been accepted for publication in Topology and its applications.</li>
+      <li> [December 2025] <a href="https://arxiv.org/abs/2512.18277">Cobordism of nested manifolds</a> has appeared on the arXiv.</li>
+      <li> [September 2025] I will be spending three months in the <a href="https://geotop.math.ku.dk/">Copenhagen Centre for Geometry and Topology</a>.</li>
+      <li> [August 2025] <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70181">Scissors congruence K-theory for equivariant manifolds</a> has been accepted for publication in the Bulletin of the London Mathematical Society.</li>
+      <li> [January 2025] <a href="https://arxiv.org/abs/2501.06928">Scissors congruence K-theory for equivariant manifolds</a> has appeared on the arXiv.</li>
+    </ul>
   </div>
   `,
 };

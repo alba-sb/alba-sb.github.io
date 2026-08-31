@@ -220,9 +220,9 @@ $(document).ready(function () {
     document.getElementById("page_title").innerText =
       lang === "en" ? "Conferences" : "Conferencias";
 
-    document.getElementById("research_title").innerHTML =
+    document.getElementById("jobs_title").innerHTML =
       lang === "en" ? enJobsPageData.title : faJobsPageData.title;
-    document.getElementById("research_data").innerHTML =
+    document.getElementById("jobs_data").innerHTML =
       lang === "en" ? enJobsPageData.content : faJobsPageData.content;
   }
 

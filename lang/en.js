@@ -105,7 +105,7 @@ const enPublicationsPageData = {
 
 // ---------- Research page data
 const enResearchPageData = {
-  title: "Talks",
+  title: "Talks and posters",
   content: `
     <div>
       <h4 style="font-size: 1.1rem "> Invited talks </h4>
@@ -170,11 +170,33 @@ const enJobsPageData = {
   title: "Conferences and seminars",
   content: `
     <div>
-      Blablabla
        <ul>
-          <li>[year] Blablabla </li>
+          <li> [2023-26] <a href="https://www.few.vu.nl/~trt800/ddtg.html">Dutch Differential Topology and Geometry Seminar</a>. </li>
+          <li> [2023-26] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">Arbeitsgemeinschaft Differential Topology - CTA2 Arbeitsgemeinschaft</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] <a href="https://sites.google.com/view/general-mathematics-colloquium/home">General Mathematics Colloquium</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] Nutshell seminar, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>.</li>
+          <li> [2026] <a href="https://math-events.uni-bonn.de/event/917/">Young Women in Geometric Topology</a>, Hausdorff Institute (Bonn).</li>
+          <li> [2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen.</li>
+          <li> [2026] <a href="https://sites.google.com/view/european-talbot/2026-workshop">European Talbot Workshop - Algebraic and Geometric Surgery</a>, Kolding.</li>
+          <li> [2026] <a href="https://vu.nl/en/about-vu/more-about/applied-topology-day2026">Applied Topology Day</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2026] <a href="https://www.cta2.nl/cta-2-lectures-2026/">CTA2 Lectures</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2026] <a href="https://www.mpim-bonn.mpg.de/hamfc">Interactions between higher algebra, manifolds and functor calculus</a>, MPIM Bonn.</li>
+          <li> [2025-26] <a href="https://sites.google.com/view/mhtrt/home"> Manifolds, Homotopy Theory and Related Topics seminar</a>, online.</li>
+          <li> [2026] <a href="https://www.uu.nl/en/research/utrecht-geometry-centre/higher-geometric-structures-along-the-lower-rhine">Higher Geometric Structures along the Lower Rhine</a>, Utrecht.</li>
+          <li> [2026] <a href="https://sites.google.com/view/vigneshsubramanian/seminars/lectures-on-geometric-topology">Lectures on Geometric Topology</a>, Utrecht.</li>
+          <li> [2026] <a href="https://sites.google.com/view/francescapratali/two-lectures-on-infinity-operads">Lectures on oo-operads</a>, Utrecht.</li>
+          <li> [2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2025] <a href="https://www.uu.nl/en/research/utrecht-geometry-centre/research/algebraic-topology/daniel-kan-memorial-lectures">Kan Lectures</a>, Utrecht.</li>
+          <li> [Winter 2025] Algebra and Topology Seminar, Copenhagen.</li>
+          <li> [Winter 2025] Coolloquium, Copenhagen.</li>
+          <li> [2025] <a href="https://www.math.ku.dk/english/calendar/events/nancy-hingston-celebration/">Nancy Hingston Celebration</a>, Copenhagen.</li>
+          <li> [2025] <a href="https://blogs.upm.es/et25/">XXXI Encuentro de Topología</a>, Madrid.</li>
+          <li> [2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid.</li>
+          
+          
         </ul>
-    </div>
+    </div>   
 
   `,
 };

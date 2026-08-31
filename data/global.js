@@ -12,7 +12,7 @@ const globalData = {
   enAddress: "Your address ",
   faAddress: " آدرس شما ",
   phone: "09120000000",
-  email: "example@email.com",
+  email: "a.sendon.blancoSPAMvu.nl, but change SPAM by @.",
   twitterTitle: "",
   twitter: "",
   whatsappTitle: "WhatsApp number",
@@ -24,5 +24,5 @@ const globalData = {
   githubTitle: "Github Username",
   github: "https://github.com/your_username",
   orcidTitle: "Orcid Username",
-  orcid: "https://orcid.com/your_username",
+  orcid: "0009-0008-0846-3276",
 };

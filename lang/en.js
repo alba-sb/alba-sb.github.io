@@ -160,9 +160,5 @@ const enJobsPageData = {
         </ul>
     </div>
 
-    </div>
-
-
-
   `,
 };

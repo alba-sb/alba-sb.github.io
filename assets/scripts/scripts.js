@@ -61,9 +61,9 @@ $(document).ready(function () {
       .filter((item) => item.active)
       .map(
         (link) =>
-          `<li>
+          `<p>
               <img src=${link.img} /> ${link.name}
-            </li>`
+            </p>`
       )
       ;
 

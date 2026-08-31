@@ -4,8 +4,8 @@ const enNavbarData = {
   Home: "Home",
   publications: "Publications",
   Research: "Talks",
-  Jobs: "Jobs",
-  Contact: "Contact",
+  Jobs: "Conferences",
+  Contact: "More",
 };
 
 // ---------- Home page data

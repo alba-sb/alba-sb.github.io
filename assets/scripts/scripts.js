@@ -120,18 +120,26 @@ $(document).ready(function () {
         <p>${publication.abstract}</p>
         <ul class='publications_footer'>
           ${
-            publication.link &&
+            publication.arxiv &&
             `<li>
-                <a href=${publication.link} target="_blank"> ${
-              lang === "en" ? "View" : " مشاهده"
+                <a href=${publication.arxiv} target="_blank"> ${
+              lang === "en" ? "ArXiv" : "ArXiv"
             } </a>
               </li>`
           }
             ${
-              publication.github &&
+              publication.journal &&
               `<li>
-                  <a href=${publication.github} target="_blank">  ${
-                lang === "en" ? "Github" : "گیت‌هاب"
+                  <a href=${publication.journal} target="_blank">  ${
+                lang === "en" ? "Journal" : "Xornal"
+              }</a>
+                </li>`
+            }
+            ${
+              publication.link &&
+              `<li>
+                  <a href=${publication.link} target="_blank">  ${
+                lang === "en" ? "Link" : "Enlace"
               }</a>
                 </li>`
             }

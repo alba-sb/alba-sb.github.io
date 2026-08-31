@@ -61,9 +61,16 @@ $(document).ready(function () {
       .filter((item) => item.active)
       .map(
         (link) =>
-          `<p>
-              <img src=${link.img} /> ${link.name}
-            </p>`
+            `<li>
+              <img src=${link.img} alt=${link.title} /> 
+              ${
+                link.url
+                  ? `<a href=${link.url} target='_blank'>
+                      ${link.name ? link.name : link.url} 
+                    </a>`
+                  : `<p>${link.title}</p>`
+              }
+            </li>`
       )
       ;
 

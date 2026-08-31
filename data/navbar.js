@@ -22,17 +22,17 @@ $(document).ready(function () {
       {
         active: navbarLinks.research ? true : false,
         title: lang === "fa" ? faNavbarData.Research : enNavbarData.Research,
-        url: "/research.html",
+        url: "/talks.html",
       },
       {
         active: navbarLinks.jobs ? true : false,
         title: lang === "fa" ? faNavbarData.Jobs : enNavbarData.Jobs,
-        url: "/jobs.html",
+        url: "/conferences.html",
       },
       {
         active: navbarLinks.contact ? true : false,
         title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
-        url: "/contact.html",
+        url: "/more.html",
       },
     ],
   };

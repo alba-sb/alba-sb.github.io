@@ -128,10 +128,10 @@ $(document).ready(function () {
               </li>`
           }
             ${
-              publication.journal &&
+              publication.journalname &&
               `<li>
-                  <a href=${publication.journal} target="_blank">  ${
-                lang === "en" ? "Journal" : "Xornal"
+                  <a href=${publication.journallink} target="_blank">  ${
+                lang === "en" ? publication.journalname : publication.journalname
               }</a>
                 </li>`
             }

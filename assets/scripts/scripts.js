@@ -34,36 +34,14 @@ $(document).ready(function () {
     image: globalData.image,
     links: [
       {
-        name: `mailto:${globalData.email}`,
+        name: globalData.email,
         active: globalData.email ? true : false,
         img: "../assets/images/icons/mail.png",
       },
       {
-        name: globalData.whatsapp,
-        active: globalData.whatsapp ? true : false,
-        img: "../assets/images/icons/whatsapp.png",
-      },
-      {
-        name: globalData.twitter,
-        active: globalData.twitter ? true : false,
-        img: "../assets/images/icons/twitter.png",
-      },
-      {
-        name: globalData.linkedin,
-        active: globalData.linkedin ? true : false,
-        img: "../assets/images/icons/linkedin.png",
-      },
-      {
-        name: globalData.github,
-        active: globalData.github ? true : false,
-        url: "/",
-        img: "../assets/images/icons/github.png",
-      },
-      {
-        name: globalData.resume,
-        active: globalData.resume ? true : false,
-        url: "/",
-        img: "../assets/images/icons/resume.png",
+        name: globalData.orcid,
+        active: globalData.orcid ? true : false,
+        img: "../assets/images/icons/orcid.png",
       },
     ],
   };
@@ -84,7 +62,7 @@ $(document).ready(function () {
       .map(
         (link) =>
           `<li>
-              <a href=${link.name} target='_blank'><img src=${link.img} alt=${link.name} /> </a>
+              <img src=${link.img} /> ${link.name}
             </li>`
       )
       .join("");

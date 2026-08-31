@@ -19,6 +19,8 @@ const enHomePageData = {
     <p> My research interests lie in the algebraic topology of manifolds. Namely, I like studying cobordisms between nested manifolds (manifolds with manifolds inside), as well as cutting and pasting equivariant manifolds.</p>
     <p> Before my PhD, I studied a Master in Advanced Mathematics at Universitat de Barcelona and a Grao en Matemáticas at Universidade de Santiago de Compostela.</p>
     <p>On the academic year 2026/2027, I am on the job market. My CV is available upon request.</p>
+    <p><img src=../assets/images/icons/mail.png alt="" width="50"> email</p>
+    <p><img src=../assets/images/icons/orcid.png alt="" width="50"> orcid</p>
     <h2 class='title'> News </h2>
     <ul>
       <li> [June 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> has been accepted for publication in Topology and its applications.</li>

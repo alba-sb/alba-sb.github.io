@@ -145,7 +145,7 @@ $(document).ready(function () {
 
   function publicationsData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Publications" : "مقالات";
+      lang === "en" ? "Publications" : "Publicacións";
 
     document.getElementById("publications_type_one_title").innerHTML =
       lang === "en"
@@ -203,7 +203,7 @@ $(document).ready(function () {
   // Research page data
   function researchData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Research" : "تحقیقات";
+      lang === "en" ? "Talks" : "Charlas";
 
     document.getElementById("research_title").innerHTML =
       lang === "en" ? enResearchPageData.title : faResearchPageData.title;
@@ -211,7 +211,7 @@ $(document).ready(function () {
       lang === "en" ? enResearchPageData.content : faResearchPageData.content;
   }
 
-  if (pathname === "/research") {
+  if (pathname === "/talks") {
     researchData();
   }
 
@@ -226,13 +226,13 @@ $(document).ready(function () {
       lang === "en" ? enJobsPageData.content : faJobsPageData.content;
   }
 
-  if (pathname === "/jobs") {
+  if (pathname === "/conferences") {
     jobsData();
   }
 
   // Contact page data
   const contact_data = {
-    contact_title: lang === "en" ? "Contact" : "ارتباط با من",
+    contact_title: lang === "en" ? "More" : "Máis",
     contact_items: [
       {
         img: "../assets/images/icons/location.png",
@@ -312,7 +312,7 @@ $(document).ready(function () {
         .join("");
   }
 
-  if (pathname === "/contact") {
+  if (pathname === "/more") {
     contactData();
   }
 });

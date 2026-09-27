@@ -2,7 +2,7 @@
 const enNavbarData = {
   title: " Alba Sendón Blanco ",
   Home: "Home",
-  publications: "Publications",
+  publications: "Writing",
   Research: "Talks",
   Jobs: "Conferences",
   Contact: "More",
@@ -193,8 +193,44 @@ const enJobsPageData = {
           <li> [2025] <a href="https://www.math.ku.dk/english/calendar/events/nancy-hingston-celebration/">Nancy Hingston Celebration</a>, Copenhagen.</li>
           <li> [2025] <a href="https://blogs.upm.es/et25/">XXXI Encuentro de Topología</a>, Madrid.</li>
           <li> [2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid.</li>
-          
-          
+          <li> [2025] <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5402">Equivariant Topological Quantum Field Theory</a>, Oaxaca.</li>
+          <li> [2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home?pli=1&authuser=0"<Scissors Congruence and K-theory</a>, Philadelphia.</li>
+          <li> [2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm.</li>
+          <li> [2025] <a href="https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2025">Talbot Workshop - Homological stability</a>, Cassopolis.</li>
+          <li> [2025] <a href="https://www.newton.ac.uk/event/ehtw03/">New horizons for equivariance in homotopy theory</a>, Isaac Newton Institute (Cambridge).</li>
+          <li> [2025] <a href="https://www.math.ku.dk/english/calendar/events/cobordism-categories_copy/">Masterclass in cobordism categories</a>, Copenhagen.</li>
+          <li> [2025] <a href="https://jovenes2025.rsme.es/">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao.</li>
+          <li> [2024] <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorisation homology seminar</a>, VU-UU.</li>
+          <li> [2024] <a href="https://www.math.ru.nl/~sagave/east2024/">European Autumn School in Topology</a>, Utrecht.</li>
+          <li> [2024] <a href="https://www.math.ku.dk/english/calendar/events/topology-of-moduli-spaces">Topology of moduli spaces</a>, Copenhagen.</li>
+          <li> [2024] Collaborative research workshop on K-theory and scissors congruence, Vanderbilt University.</li>
+          <li> [2024] <a href="https://dkasprowski.github.io/Conference/">The interplay of Geometric Group Theory and K-theory</a>, Southampton.</li>
+          <li> [2024] <a href="https://algtoppr.github.io/2024.html">Algebraic Structures in Topology</a>, Puerto Rico.</li>
+          <li> [2024] <a href="https://www.math.ku.dk/english/calendar/events/hmmt/">Masterclass on homotopical methods in manifold theory</a>, Copenhagen.</li>
+          <li> [2024] <a href="https://mathematischcongres.nl/nmc-2024/">Nederlands Matematisch Congres</a>, Lunderen.</li>
+          <li> [2022-2024] <a href="https://seminari-simba.github.io/en/index.html">Seminari Informal de Matemàtiques de Barcelona (SIMBa)</a>.</li>
+          <li> [2024] <a href="https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=9980&brettid=8">Colloquium in honor of Michael Weiss</a>, Münster.</li>
+          <li> [2023] Spaces of manifolds: algebraic and geometric approaches, online.</li>
+          <li> [2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XXIX Encuentro de Topología</a>, Alicante.</li>
+          <li> [2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante.</li>
+          <li> [2023] <a href="https://redshift.mathi.uni-heidelberg.de/">Fall school in Algebraic K-theory and Redshift</a>, Mainz.</li>
+          <li> [2023] <a href="https://archiveweb.epfl.ch/ytm2023.epfl.ch/">Young Topologists Meeting</a>, Lausanne.</li>
+          <li> [2023] <a href="https://sites.google.com/view/grootopology/previous-years/groot-2023">GROOT summer seminar</a>, online.</li>
+          <li> [2023] <a href="https://www.math.ru.nl/hkt-conference/">Homotopy theory, K-theory and trace methods</a>, Radbout Universiteit.</li>
+          <li> [2023] <a href="https://rsmejovenes23.unileon.es/">VI Congreso de Jóvenes Investigadores de la RSME</a>, León.</li>
+          <li> [2022-2023] Seminario de Topoloxía, Unviersidade de Santiago de Compostela.</li>
+          <li> [2022-2023] Seminario de Iniciación á Investigación, Universidade de Santiago de Compostela.</li>
+          <li> [2022] <a href="https://www.rsmeuma2022.uma.es/">II Encuentro RSME-UMA</a>, Ronda.</li>
+          <li> [2022] "An allegedly somewhat friendly introduction to infinity-operads", online.</li>
+          <li> [2022] <a href="https://icms.ac.uk/archive/workshop/classifying-spaces-in-homotopy-theory-in-honour-of-ran-levis-60th-birthday/">Classifying spaces in homotopy theory: in honour of Ran Levi's 60th birthday</a>, online.</li>
+          <li> [2022] <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a>, Copenhagen.</li>
+          <li> [2022] Graduate school on Geometric Group Theory and Low Dimensional Topology, ICMAT.</li>
+          <li> [2022] Topological machine learning seminar, Universitat de Barcelona.</li>
+          <li> [2022] Algebraic geometry seminar, Universitat de Barcelona.</li>
+          <li> [2021] XXVII Encuentro de Topología, Sevilla.</li>
+          <li> [2021] IX Encuentro de Jóvenes Topólogos, Sevilla.</li>
+          <li> [2021] "Versión combinatoria de algunos invariantes topológicos", Sevilla.</li>
+          <li> [2012-2020] <a href="https://www.usc.gal/gl/servizos/area/normalizacion-linguistica/promover/xornadas-seminarios/matematicas-habelas-hainas-seguimos-querendo-contarchas">Matemáticas, habelas hainas!</a>, Universidade de Santiago de Compostela.</li>
         </ul>
     </div>   
 

@@ -194,7 +194,7 @@ const enJobsPageData = {
           <li> [2025] <a href="https://blogs.upm.es/et25/">XXXI Encuentro de Topología</a>, Madrid.</li>
           <li> [2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid.</li>
           <li> [2025] <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5402">Equivariant Topological Quantum Field Theory</a>, Oaxaca.</li>
-          <li> [2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home?pli=1&authuser=0"<Scissors Congruence and K-theory</a>, Philadelphia.</li>
+          <li> [2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home?pli=1&authuser=0">Scissors Congruence and K-theory</a>, Philadelphia.</li>
           <li> [2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm.</li>
           <li> [2025] <a href="https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2025">Talbot Workshop - Homological stability</a>, Cassopolis.</li>
           <li> [2025] <a href="https://www.newton.ac.uk/event/ehtw03/">New horizons for equivariance in homotopy theory</a>, Isaac Newton Institute (Cambridge).</li>
@@ -207,7 +207,7 @@ const enJobsPageData = {
           <li> [2024] <a href="https://dkasprowski.github.io/Conference/">The interplay of Geometric Group Theory and K-theory</a>, Southampton.</li>
           <li> [2024] <a href="https://algtoppr.github.io/2024.html">Algebraic Structures in Topology</a>, Puerto Rico.</li>
           <li> [2024] <a href="https://www.math.ku.dk/english/calendar/events/hmmt/">Masterclass on homotopical methods in manifold theory</a>, Copenhagen.</li>
-          <li> [2024] <a href="https://mathematischcongres.nl/nmc-2024/">Nederlands Matematisch Congres</a>, Lunderen.</li>
+          <li> [2024] <a href="https://mathematischcongres.nl/nmc-2024/">Nederlands Matematisch Congres</a>, Lunteren.</li>
           <li> [2022-2024] <a href="https://seminari-simba.github.io/en/index.html">Seminari Informal de Matemàtiques de Barcelona (SIMBa)</a>.</li>
           <li> [2024] <a href="https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=9980&brettid=8">Colloquium in honor of Michael Weiss</a>, Münster.</li>
           <li> [2023] Spaces of manifolds: algebraic and geometric approaches, online.</li>

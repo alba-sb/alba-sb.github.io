@@ -1,10 +1,10 @@
 const faNavbarData = {
-  title: " نام شما ",
-  Home: " خانه ",
-  publications: " مقالات ",
-  Research: " تحقیقات ",
-  Jobs: " سوابق شغلی ",
-  Contact: " ارتباط با من ",
+  title: "Alba Sendón Blanco",
+  Home: "Inicio",
+  publications: "Escritos",
+  Research: "Exposicións",
+  Jobs: "Conferencias",
+  Contact: "Máis",
 };
 
 const faHomePageData = {

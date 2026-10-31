@@ -8,17 +8,26 @@ const faNavbarData = {
 };
 
 const faHomePageData = {
-  name: "  نام شما ",
-  jobTitle: "  عنوان شغلی ",
-  home_title: " درباره من ",
-  home_content: ` <p> لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد </p>
-    <h2 class='title'> کارهای من </h2>
-    <p> لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد. </p>
+  name: " Alba Sendón Blanco ",
+  jobTitle: " Estudante de doutoramento, Vrije Universiteit Amsterdam ",
+  home_title: "Sobre min",
+  home_content: `
+  <div>
+    <p> Ola! Son Alba, unha estudante de doutoramento na Vrije Universiteit, en Amsterdam, baixo a supervisón de <a href="https://www.reneehoekzema.nl/">Renee Hoekzema</a> e <a href="https://www.few.vu.nl/~trt800/">Thomas Rot</a>. </p>
+    <p> Os meus intereses de investigación céntranse na topoloxía alxébrica de variedades. En particular, gústame estudar coboerdismos entre variedades aniñadas (variedades con variedades dentro), e tamén cortar e pegar variedades equivariantes.</p>
+    <p> Antes do meu doutoramento, estudei o Máster en Matemática Avanzada na Universitat de Barcelona e o Grao en Matemáticas na Universidade de Santiago de Compostela.</p>
+    <p> No ano académico 2026/2027, estou no mercado laboral. O meu CV está dispoñible baixo demanda.</p>
+    <p><img src=../assets/images/icons/mail.png alt="" width="30"> a.sendon.blancoSPAMvu.nl, cambiando SPAM por @.</p>
+    <p><img src=../assets/images/icons/orcid.png alt="" width="30"> 0009-0008-0846-3276 </p>
+    <h2 class='title'> Novas </h2>
     <ul>
-      <li> عنوان تستی </li>
-      <li>  عنوان تستی  2  </li>
-      <li> عنوان تستی 3  </li>
+      <li> [Xuño 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> foi aceptado para publicación en Topology and its applications.</li>
+      <li> [Decembro 2025] <a href="https://arxiv.org/abs/2512.18277">Cobordism of nested manifolds</a> apareceu no arXiv.</li>
+      <li> [Setembro 2025] Pasarei tres meses no <a href="https://geotop.math.ku.dk/">Copenhagen Centre for Geometry and Topology</a>.</li>
+      <li> [Agosto 2025] <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70181">Scissors congruence K-theory for equivariant manifolds</a> foi aceptado para publicación en Bulletin of the London Mathematical Society.</li>
+      <li> [Xaneiro 2025] <a href="https://arxiv.org/abs/2501.06928">Scissors congruence K-theory for equivariant manifolds</a> apareceu no arXiv.</li>
     </ul>
+  </div>
   `,
 };
 

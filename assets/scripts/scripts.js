@@ -25,7 +25,7 @@ $(document).ready(function () {
     ) {
       document.getElementById("languageIcon").src =
         "../assets/images/icons/ir.png";
-      document.getElementById("languageText").innerText = "FA";
+      document.getElementById("languageText").innerText = "GAL";
     }
   }
 

@@ -156,19 +156,90 @@ const faResearchPageData = {
 
 
 const faJobsPageData = {
-  title: " سوابق شغلی ",
+  title: "Conferencias e seminarios",
   content: `
-    <div> Blablabla </div>
-    `,
+    <div>
+       <ul>
+          <li> [2023-26] <a href="https://www.few.vu.nl/~trt800/ddtg.html">Dutch Differential Topology and Geometry Seminar</a>. </li>
+          <li> [2023-26] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">Arbeitsgemeinschaft Differential Topology - CTA2 Arbeitsgemeinschaft</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] <a href="https://sites.google.com/view/general-mathematics-colloquium/home">General Mathematics Colloquium</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] Nutshell seminar, Vrije Universiteit Amsterdam.</li>
+          <li> [2023-26] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>.</li>
+          <li> [2026] <a href="https://sites.google.com/vu.nl/cta2spatialstructures/">Conference on Spatial Structures</a>, VU Amsterdam.</li>
+          <li> [2026] <a href="https://math-events.uni-bonn.de/event/917/">Young Women in Geometric Topology</a>, Hausdorff Institute (Bonn).</li>
+          <li> [2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen.</li>
+          <li> [2026] <a href="https://sites.google.com/view/european-talbot/2026-workshop">European Talbot Workshop - Algebraic and Geometric Surgery</a>, Kolding.</li>
+          <li> [2026] <a href="https://vu.nl/en/about-vu/more-about/applied-topology-day2026">Applied Topology Day</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2026] <a href="https://www.cta2.nl/cta-2-lectures-2026/">CTA2 Lectures</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2026] <a href="https://www.mpim-bonn.mpg.de/hamfc">Interactions between higher algebra, manifolds and functor calculus</a>, MPIM Bonn.</li>
+          <li> [2025-26] <a href="https://sites.google.com/view/mhtrt/home"> Manifolds, Homotopy Theory and Related Topics seminar</a>, online.</li>
+          <li> [2026] <a href="https://www.uu.nl/en/research/utrecht-geometry-centre/higher-geometric-structures-along-the-lower-rhine">Higher Geometric Structures along the Lower Rhine</a>, Utrecht.</li>
+          <li> [2026] <a href="https://sites.google.com/view/vigneshsubramanian/seminars/lectures-on-geometric-topology">Lectures on Geometric Topology</a>, Utrecht.</li>
+          <li> [2026] <a href="https://sites.google.com/view/francescapratali/two-lectures-on-infinity-operads">Lectures on oo-operads</a>, Utrecht.</li>
+          <li> [2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Vrije Universiteit Amsterdam.</li>
+          <li> [2025] <a href="https://www.uu.nl/en/research/utrecht-geometry-centre/research/algebraic-topology/daniel-kan-memorial-lectures">Kan Lectures</a>, Utrecht.</li>
+          <li> [Winter 2025] Algebra and Topology Seminar, Copenhagen.</li>
+          <li> [Winter 2025] Coolloquium, Copenhagen.</li>
+          <li> [2025] <a href="https://www.math.ku.dk/english/calendar/events/nancy-hingston-celebration/">Nancy Hingston Celebration</a>, Copenhagen.</li>
+          <li> [2025] <a href="https://blogs.upm.es/et25/">XXXI Encuentro de Topología</a>, Madrid.</li>
+          <li> [2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid.</li>
+          <li> [2025] <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5402">Equivariant Topological Quantum Field Theory</a>, Oaxaca.</li>
+          <li> [2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home?pli=1&authuser=0">Scissors Congruence and K-theory</a>, Philadelphia.</li>
+          <li> [2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm.</li>
+          <li> [2025] <a href="https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2025">Talbot Workshop - Homological stability</a>, Cassopolis.</li>
+          <li> [2025] <a href="https://www.newton.ac.uk/event/ehtw03/">New horizons for equivariance in homotopy theory</a>, Isaac Newton Institute (Cambridge).</li>
+          <li> [2025] <a href="https://www.math.ku.dk/english/calendar/events/cobordism-categories_copy/">Masterclass in cobordism categories</a>, Copenhagen.</li>
+          <li> [2025] <a href="https://jovenes2025.rsme.es/">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao.</li>
+          <li> [2024] <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorisation homology seminar</a>, VU-UU.</li>
+          <li> [2024] <a href="https://www.math.ru.nl/~sagave/east2024/">European Autumn School in Topology</a>, Utrecht.</li>
+          <li> [2024] <a href="https://www.math.ku.dk/english/calendar/events/topology-of-moduli-spaces">Topology of moduli spaces</a>, Copenhagen.</li>
+          <li> [2024] Collaborative research workshop on K-theory and scissors congruence, Vanderbilt University.</li>
+          <li> [2024] <a href="https://dkasprowski.github.io/Conference/">The interplay of Geometric Group Theory and K-theory</a>, Southampton.</li>
+          <li> [2024] <a href="https://algtoppr.github.io/2024.html">Algebraic Structures in Topology</a>, Puerto Rico.</li>
+          <li> [2024] <a href="https://www.math.ku.dk/english/calendar/events/hmmt/">Masterclass on homotopical methods in manifold theory</a>, Copenhagen.</li>
+          <li> [2024] <a href="https://mathematischcongres.nl/nmc-2024/">Nederlands Matematisch Congres</a>, Lunteren.</li>
+          <li> [2022-2024] <a href="https://seminari-simba.github.io/en/index.html">Seminari Informal de Matemàtiques de Barcelona (SIMBa)</a>.</li>
+          <li> [2024] <a href="https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=9980&brettid=8">Colloquium in honor of Michael Weiss</a>, Münster.</li>
+          <li> [2023] Spaces of manifolds: algebraic and geometric approaches, online.</li>
+          <li> [2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XXIX Encuentro de Topología</a>, Alicante.</li>
+          <li> [2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante.</li>
+          <li> [2023] <a href="https://redshift.mathi.uni-heidelberg.de/">Fall school in Algebraic K-theory and Redshift</a>, Mainz.</li>
+          <li> [2023] <a href="https://archiveweb.epfl.ch/ytm2023.epfl.ch/">Young Topologists Meeting</a>, Lausanne.</li>
+          <li> [2023] <a href="https://sites.google.com/view/grootopology/previous-years/groot-2023">GROOT summer seminar</a>, online.</li>
+          <li> [2023] <a href="https://www.math.ru.nl/hkt-conference/">Homotopy theory, K-theory and trace methods</a>, Radbout Universiteit.</li>
+          <li> [2023] <a href="https://rsmejovenes23.unileon.es/">VI Congreso de Jóvenes Investigadores de la RSME</a>, León.</li>
+          <li> [2022-2023] Seminario de Topoloxía, Unviersidade de Santiago de Compostela.</li>
+          <li> [2022-2023] Seminario de Iniciación á Investigación, Universidade de Santiago de Compostela.</li>
+          <li> [2022] <a href="https://www.rsmeuma2022.uma.es/">II Encuentro RSME-UMA</a>, Ronda.</li>
+          <li> [2022] "An allegedly somewhat friendly introduction to infinity-operads", online.</li>
+          <li> [2022] <a href="https://icms.ac.uk/archive/workshop/classifying-spaces-in-homotopy-theory-in-honour-of-ran-levis-60th-birthday/">Classifying spaces in homotopy theory: in honour of Ran Levi's 60th birthday</a>, online.</li>
+          <li> [2022] <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a>, Copenhagen.</li>
+          <li> [2022] Graduate school on Geometric Group Theory and Low Dimensional Topology, ICMAT.</li>
+          <li> [2022] Topological machine learning seminar, Universitat de Barcelona.</li>
+          <li> [2022] Algebraic geometry seminar, Universitat de Barcelona.</li>
+          <li> [2021] XXVII Encuentro de Topología, Sevilla.</li>
+          <li> [2021] IX Encuentro de Jóvenes Topólogos, Sevilla.</li>
+          <li> [2021] "Versión combinatoria de algunos invariantes topológicos", Sevilla.</li>
+          <li> [2012-2020] <a href="https://www.usc.gal/gl/servizos/area/normalizacion-linguistica/promover/xornadas-seminarios/matematicas-habelas-hainas-seguimos-querendo-contarchas">Matemáticas, habelas hainas!</a>, Universidade de Santiago de Compostela.</li>
+        </ul>
+    </div>   
+
+  `,
 };
 
 // ---------- More page data
 const faMorePageData = {
-  title: "More",
+  title: "Organizción, comités e máis",
   content: `
     <div>
        <ul>
-          <li> Blablabla. </li>
+          <li> En xaneiro 2025, fun integrante do comité organizador da sesión paralela <a href="https://jovenes2025.rsme.es/paralelaGT06.html">"Métodos categóricos y homotópicos"</a> do <a href="https://jovenes2025.rsme.es/paralelaGT06.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao. <a href="./files/bilbao.jpg">Proba</a>.</li>
+          <li> En xullo 2023, fun integrante do comité organizador do <a href="https://easychair.org/cfp/EGC23">XX Encuentro Español de Geometría Computacional</a>, Universidade de Santiago de Compostela.</li>
+          <li> Son integrante do comité organizdador do evento <a href="https://platformwiskunde.nl/2025/01/a-phd-is-that-for-me-2/">A PhD, is that for me?</a>, que ten lugar na Vrije Universiteit Amsterdam en xaneiro 2026 e febreiro 2027.</li>
+          <li> Canda <a href="https://sites.google.com/view/miguelbarata/homepage">Miguel Barata</a>, organiamos o <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorization homology seminar</a>, que tivo lugar no outono de 2024 entre a Vrije Universiteit Amsterdam e a Universiteit Utrecht.</li>
+          <li> Son integrante do comité de doutoramento do departamento de Matemáticas da Vrije Universiteit Amsterdam. Este comité encárgase de facer o posible para que os estudantes de doutoramento no deparmento se adhiran ás regras a nivel da facultade, así como de implementar varias medidas relacionadas coa traxectoria de doutoramento: incorporación, formación, pautas de ensino...</li>
+          <li> Fun integrante da Comissió de Qualitat na Universitat de Barcelona. Esta comisión encargouse de preparar o Departamento de Matemáticas e Enxeñería Informática para unha avaliación de calidade en 2021.</li>
+          <li> Fixen varios cursos de comunicación: “A redacción científica” e “Falar en público”, do Servizo de Normalización Lingüística (USC), de 25h cada un, e Young KWG Science Communication workshop.</li>
         </ul>
     </div>   
 

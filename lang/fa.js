@@ -117,3 +117,16 @@ const faJobsPageData = {
     <div> Blablabla </div>
     `,
 };
+
+// ---------- More page data
+const faMorePageData = {
+  title: "More",
+  content: `
+    <div>
+       <ul>
+          <li> Blablabla. </li>
+        </ul>
+    </div>   
+
+  `,
+};

@@ -118,7 +118,7 @@ const enResearchPageData = {
       <div>
       <h4 style="font-size: 1.1rem "> Contributed talks </h4>
        <ul>
-          <li>[2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen. <i>Nested Pontryagin-Thom construction and nested boundaries</i>. <a href="./files/images/copenhagen.jpg">Proof</a></li>
+          <li>[2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen. <i>Nested Pontryagin-Thom construction and nested boundaries</i>. <a href="./files/copenhagen.jpg">Proof</a></li>
           <li>[2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid. <i>Teoría K-algebraica de cortado y pegado para variedades equivariantes</i>.</li>
           <li>[2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>
           <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante. <i>Cobordismo: clásico vs anidado</i>.</li>

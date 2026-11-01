@@ -99,17 +99,61 @@ const faPublicationsPageData = {
 };
 
 const faResearchPageData = {
-  title: " تحقیقات ",
+  title: "Charlas e pósters",
   content: `
-    <div class='research_content'>
-        <p>هدف تحقیق من ترکیب سه زیر زمینه اصلی علوم اجتماعی محاسباتی، از جمله تجزیه و تحلیل داده های رسانه های اجتماعی، تجزیه و تحلیل شبکه، و مدل سازی مبتنی بر عامل، برای مطالعه مسائل مختلف علوم اجتماعی است. در زیر می توانید خلاصه ای از پروژه های گذشته و فعلی من را مشاهده کنید. </p>
-        <h2> شناسایی و شناسایی افراط گرایان ایدئولوژیک داخلی ایالات متحده </h2>
-        <p> لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد. </p>
-        <img src='../files/images/research.png' />
-        <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+    <div>
+      <h4 style="font-size: 1.1rem "> Charlas invitadas </h4>
+       <ul>
+          <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>Cobordism of nested manifolds</i>. <a href="https://www.youtube.com/watch?v=f_wVdzI1K3k">Proba</a>.</li>
+          <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>Scissors congruence K-theory for equivariant manifolds</i>, con Ming Ng e Lucas Williams. <a href="./files/philly.jpg">Proba</a>.</li>
+          <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>
+        </ul>
     </div>
+      <div>
+      <h4 style="font-size: 1.1rem "> Charlas contribuídas </h4>
+       <ul>
+          <li>[2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen. <i>Nested Pontryagin-Thom construction and nested boundaries</i>. <a href="./files/copenhagen.jpg">Proba</a>.</li>
+          <li>[2025] <a href="https://blogs.upm.es/et25/">XIII Encuentro de Jóvenes Topólogos</a>, Madrid. <i>Teoría K-algebraica de cortado y pegado para variedades equivariantes</i>. <a href="./files/madrid.jpg">Proba</a>.</li>
+          <li>[2025] <a href="https://www.math-stockholm.se/en/kalender/konferens/ytm2025-1.1350169">Young Topologists Meeting</a>, Stockholm. <i>Scissors congruence K-theory for equivariant manifolds</i>. <a href="./files/stockholm.jpg">Proba</a>.</li>
+          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XI Encuentro de Jóvenes Topólogos</a>, Alicante. <i>Cobordismo: clásico vs anidado</i>. <a href="./files/alicante.jpg">Proba</a>.</li>
+          <li>[2023] <a href="https://rsmejovenes23.unileon.es/">VI Congreso de Jóvenes Investigadores de la RSME</a>, León. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i>.</li>
+          <li>[2021] IX Encuentro de Jóvenes Topólogos, Sevilla. <i>La conjetura de Andrews-Curtis</i>.</li>
+        </ul>
+    </div>
+    <div>
+      <h4 style="font-size: 1.1rem "> Charlas en seminarios locais </h4>
+       <ul>
+          <li>[2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Amsterdam. <i>Quillen's argument for homological stability</i>.</li>
+          <li>[2026] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">CTA2 Arbeitsgemeinschaft</a>, Amsterdam. <i>Bananas</i>.</li>
+          <li>[2025] Preprint presentation, Copenhagen. <i>The Barrat-Priddy-Quillen theorem via scanning methods</i>.</li>
+          <li>[2025] Coolloquium, Copenhagen. <i>Cool stuff (a.k.a. manifolds)</i>.</li>
+          <li>[2025] Preprint presentation, Copenhagen. <i>Framed configuration spaces and exotic spheres</i>.</li>
+          <li>[2024] <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar">Factorisation Homology Seminar </a>, Utrecht. <i>oo-categories of manifolds and sheaves</i>.</li>
+          <li>[2024] <a href="https://www.math.ru.nl/~sagave/east2024/">European Autumn School in Topology</a>, Utrecht. Preparatory talk: <i>Algebraic K-theory</i>.</li>
+          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>Bananas</i>.</li>
+          <li>[2023] Nutshell Seminar, Amsterdam. <i>Bananas in a nutshell</i>.</li>
+          <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>The stability theorem</i>.</li>
+          <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>A (very introductory) introduction to intersection (co)homology</i>.</li>
+          <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i> and <i>Sobre la zona de duda</i>.</li>
+          <li>[2022] Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>Modelando a teoría homotópica dos espazos vía posets</i>.</li>
+        </ul>
+    </div>
+    <div>
+      <h4 style="font-size: 1.1rem "> Pósters contribuídos </h4>
+       <ul>
+          <li>[2024] VU Amsterdam Research fair. <i>Arts and crafts with manifolds</i>. Gañadora dun dos premios. <a href="https://www.cta2.nl/poster-prices-for-riya-dogra-and-alba-sendon-blanco/">Proba</a>.</li>
+          <li>[2023] <a href="https://web.ua.es/es/encuentrostopologia/pagina-de-inicio-del-sitio.html">XXIX Encuentro de Topología</a>, Madrid. <i>Cobordismo: clásico vs anidado</i>.</li>
+          <li>[2022] <a href="https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/january-2022-posters">Applied Algebraic Topology Research Network poster session</a>, online. <i>Simplicial-map neural networks and proposals for the improvement of its efficiency</i>.</li>
+          <li>[2022] <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a>, Copenhagen. <i>Simple homotopy type and rings</i>.</li>
+          <li>[2021] XXVII Encuentro de Topología, Sevilla. <i>Simplicial-map neural networks y propuestas para la mejora de su eficiencia</i>.</li>
+        </ul>
+    </div>
+
+
+
   `,
 };
+
 
 const faJobsPageData = {
   title: " سوابق شغلی ",

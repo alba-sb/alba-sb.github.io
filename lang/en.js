@@ -5,7 +5,7 @@ const enNavbarData = {
   publications: "Writing",
   Research: "Talks",
   Jobs: "Conferences",
-  Contact: "More",
+  More: "More",
 };
 
 // ---------- Home page data

@@ -173,7 +173,7 @@ const enJobsPageData = {
           <li> [2023-26] <a href="https://sites.google.com/view/general-mathematics-colloquium/home">General Mathematics Colloquium</a>, Vrije Universiteit Amsterdam.</li>
           <li> [2023-26] Nutshell seminar, Vrije Universiteit Amsterdam.</li>
           <li> [2023-26] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>.</li>
-          <li< [2026] <a href="https://sites.google.com/vu.nl/cta2spatialstructures/">Conference on Spatial Structures</a>, VU Amsterdam.</li>
+          <li> [2026] <a href="https://sites.google.com/vu.nl/cta2spatialstructures/">Conference on Spatial Structures</a>, VU Amsterdam.</li>
           <li> [2026] <a href="https://math-events.uni-bonn.de/event/917/">Young Women in Geometric Topology</a>, Hausdorff Institute (Bonn).</li>
           <li> [2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen.</li>
           <li> [2026] <a href="https://sites.google.com/view/european-talbot/2026-workshop">European Talbot Workshop - Algebraic and Geometric Surgery</a>, Kolding.</li>

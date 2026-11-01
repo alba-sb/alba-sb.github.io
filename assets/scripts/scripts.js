@@ -234,7 +234,7 @@ $(document).ready(function () {
       lang === "en" ? enMorePageData.content : faMorePageData.content;
   }
 
-  if (pathname === "/conferences") {
+  if (pathname === "/more") {
     moreData();
   }
 });

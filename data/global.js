@@ -3,7 +3,7 @@ const navbarLinks = {
   publications: true,
   research: true,
   jobs: true,
-  contact: true,
+  more: true,
 };
 
 const globalData = {

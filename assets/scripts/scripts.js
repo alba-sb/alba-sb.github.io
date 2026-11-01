@@ -229,9 +229,9 @@ $(document).ready(function () {
       lang === "en" ? "More" : "Máis";
 
     document.getElementById("more_title").innerHTML =
-      lang === "en" ? enJobsPageData.title : faJobsPageData.title;
+      lang === "en" ? enMorePageData.title : faMorePageData.title;
     document.getElementById("more_data").innerHTML =
-      lang === "en" ? enJobsPageData.content : faJobsPageData.content;
+      lang === "en" ? enMorePageData.content : faMorePageData.content;
   }
 
   if (pathname === "/conferences") {

@@ -236,3 +236,16 @@ const enJobsPageData = {
 
   `,
 };
+
+// ---------- More page data
+const enMorePageData = {
+  title: "More",
+  content: `
+    <div>
+       <ul>
+          <li> Blablabla. </li>
+        </ul>
+    </div>   
+
+  `,
+};

@@ -14,7 +14,7 @@ const faHomePageData = {
   home_content: `
   <div>
     <p> Ola! Son Alba, unha estudante de doutoramento na Vrije Universiteit, en Amsterdam, baixo a supervisón de <a href="https://www.reneehoekzema.nl/">Renee Hoekzema</a> e <a href="https://www.few.vu.nl/~trt800/">Thomas Rot</a>. </p>
-    <p> Os meus intereses de investigación céntranse na topoloxía alxébrica de variedades. En particular, gústame estudar coboerdismos entre variedades aniñadas (variedades con variedades dentro), e tamén cortar e pegar variedades equivariantes.</p>
+    <p> Os meus intereses de investigación céntranse na topoloxía alxébrica de variedades. En particular, gústame estudar cobordismos entre variedades aniñadas (variedades con variedades dentro), e tamén cortar e pegar variedades equivariantes.</p>
     <p> Antes do meu doutoramento, estudei o Máster en Matemática Avanzada na Universitat de Barcelona e o Grao en Matemáticas na Universidade de Santiago de Compostela.</p>
     <p> No ano académico 2026/2027, estou no mercado laboral. O meu CV está dispoñible baixo demanda.</p>
     <p><img src=../assets/images/icons/mail.png alt="" width="30"> a.sendon.blancoSPAMvu.nl, cambiando SPAM por @.</p>
@@ -36,7 +36,7 @@ const faPublicationsPageData = {
 
   type_one_items: [
     {
-      title: `Cobordism of nested manifolds.`,
+      title: `Cobordism of nested manifolds (Cobordismo de variedades aniñadas).`,
       abstract: `Estudamos cobordisms de variedades aniñadas, que son variedades con subvariedades mergulladas, que poden á súa vez ter subvariedades aniñadas, etc. Identificamos un análogo da construción de Pontryagin-Thom para variedades aniñadas. Ademais, cando a variedade de maior dimensión ten un fibrado normal cunha dirección enmarcada, atopamos espazos homotópicamente equivalentes ós espazos de Pontryagin-Thom aniñados que relacionan as variedades aniñadas salvo cobordismo con enlaces salvo cobordismo. Isto dá lugar a invariantes de cobordismo aniñado que veñen de invariantes de cobordismo de enlaces previamente estudadas. Tamén aportamos unha proba alternativa dun resultado de Wall sobre a escisión dos grupos de cobordismo aniñado estable.`,
       date: "2025",
       arxiv: "https://arxiv.org/abs/2512.18277",
@@ -46,8 +46,8 @@ const faPublicationsPageData = {
       writers: ["Alba Sendón Blanco"],
     },
    {
-      title: `Scissors congruence K-theory for equivariant manifolds.`,
-      abstract: `We introduce a scissors congruence K-theory spectrum which lifts the equivariant scissors congruence groups for compact G-manifolds with boundary, and we show that on π0 this is the source of a spectrum level lift of the Burnside ring valued equivariant Euler characteristic of a compact G-manifold. We also show that the equivariant scissors congruence groups for varying subgroups assemble into a Mackey functor, which is a shadow of a conjectural higher genuine equivariant structure.`,
+      title: `Scissors congruence K-theory for equivariant manifolds (Teoría K de cortado e pegado para variedades equivariantes).`,
+      abstract: `Introducimos un espectro de teoría K de cortado e pegado que levante os grupos de cortado e pegado equivariante para G-variedades compactas con borde, e demostramos que en π0 este é o dominio dun levantamento ó nivel de espectros da característica de Euler equivariante dunha G-variedade compacta, con valores no anel de Burnside. Tamén demostramos que os grupos de cortado e pegado equivariante para cada subgrupo asémblanse nun funtor de Mackey, o cal é un presaxio dunha estrutura de espectro equivariante xenuíno conxectural.`,
       date: "2025",
       arxiv: "https://arxiv.org/abs/2501.06928",
       journalname: "Bulletin of the London Mathematical Society",
@@ -57,7 +57,7 @@ const faPublicationsPageData = {
     },
      {
       title: `La conjetura de Andrews Curtis`,
-      abstract: `This is an adaptation of my bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      abstract: `Esta é unha adaptación do meu traballo de fin de grao, escrito baixo a supervisón de Enrique Macías Virgós e David Mosquera Lois.A conxectura de Andrews-Curtis foi proposta por James J. Andrews e Morton L. Curtis en 1965, é orixinalmente alxébrica e afirma que toda presentación balanceada do grupo trivial pode converterse (a través de transformacións de Andrews-Curtis) na presentación trivial. O noso obxectivo é mostrar dúas versións diferentes da conxectura de Andrews-Curtis, ambas cun enfoque topolóxico: unha para complexos simpliciais finitos e outra para posets finitos. Ademais, estableceremos a equivalencia entre elas.`,
       date: "2023",
       arxiv: "",
       journalname: "TEMat",
@@ -67,7 +67,7 @@ const faPublicationsPageData = {
     },
     {
       title: `Modeling the homotopy theory of spaces via posets`,
-      abstract: `This is my master thesis, written under the supervision of Javier J. Gutiérrez Marín. The aim of this project is to study the basics of Quillen model structures as an essential tool in algebraic topology and abstract homotopy theory. In the first part, we will focus on the necessary background on category theory and homotopy theory in order to understand the notion of model structure and some fundamental constructions and tools within this framework. The second part will deal with particular examples of model structures. Namely, we will study Thomason's model structure on the category of small categories and how it relates to Kan-Quillen's model structure on simplicial sets via an equivalence of homotopy categories, providing a model for the homotopy theory of topological spaces. Finally, we will describe how the category of partially ordered sets inherits this model structure, offering yet another model for the homotopy theory of spaces. Moreover, we will analyze the relation between this structure and T0 Alexandroff spaces.`,
+      abstract: `Este é o meu traballo de fin de máster, escrito baixo a supervisión de Javier J. Gutiérrez Marín. O obxectivo deste proxecto é estudar as nocións básicas das estruturas de modelos de Quillen coma unha ferramenta esencial en topoloxía alxébrica e teoría de homotopía abstracta. Na primeira parte, centrarémonos nos conceptos necesarios en teoría de categorías e teoría de homotopía para entender a noción de estrutura de modelos e algunhas construcións e ferramentas fundamentais neste encadre. A segunda parte tratará con exemplos particulares de estruturas de modelos. Concretamente, estudaremos a estrutura de modelos de Thomason na categoría de categorías pequenas e como se relaciona coa estrutura de modelos de Kan-Quillen na categoría de conxuntos simpliciais vía unha equivalencia de categorías homotópicas, aportando un modelo para a teoría de homotopía dos espazos topolóxicos. Finalmente, describiremos como a categoría de conxuntos parcialmente ordenados herda esta estrutura de modelos, ofrecendo aínda outro modelo para a teoría de homotopía dos espazos. Ademais, analizaremos a relación entre esta estrutura e a dos espazos T0 de Alexandroff.`,
       date: "2022",
       arxiv: "",
       journalname: "",
@@ -77,7 +77,7 @@ const faPublicationsPageData = {
     },
     {
       title: `A conxectura de Andrews-Curtis`,
-      abstract: `This is my bachelor thesis, written under the supervision of Enrique Macías Virgós and David Mosquera Lois. The Andrews-Curtis conjecture was proposed by James J. Andrews and Morton L. Curtis in 1965, is originally algebraic and states that every balanced presentation of the trivial group can become (through Andrews-Curtis transformations) the trivial presentation. Our aim is to show two different versions of the Andrews-Curtis conjecture, both of them from a topological point of view: one for finite simplicial complexes and another one for finite posets. Furthermore, we will establish the equivalence between them.`,
+      abstract: `Este é o meu traballo de fin de grao, escrito baixo a supervisón de Enrique Macías Virgós e David Mosquera Lois.A conxectura de Andrews-Curtis foi proposta por James J. Andrews e Morton L. Curtis en 1965, é orixinalmente alxébrica e afirma que toda presentación balanceada do grupo trivial pode converterse (a través de transformacións de Andrews-Curtis) na presentación trivial. O noso obxectivo é mostrar dúas versións diferentes da conxectura de Andrews-Curtis, ambas cun enfoque topolóxico: unha para complexos simpliciais finitos e outra para posets finitos. Ademais, estableceremos a equivalencia entre elas.`,
       date: "2021",
       arxiv: "",
       journalname: "",

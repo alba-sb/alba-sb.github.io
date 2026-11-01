@@ -237,11 +237,17 @@ const enJobsPageData = {
 
 // ---------- More page data
 const enMorePageData = {
-  title: "More",
+  title: "Organizing, committees and more",
   content: `
     <div>
        <ul>
-          <li> Blablabla. </li>
+          <li> In January 2025, I was a member of the organizing committee of the parallel session <a href="https://jovenes2025.rsme.es/paralelaGT06.html">"Categorical and Homotopical Methods"</a> of <a href="https://jovenes2025.rsme.es/paralelaGT06.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao. <a href="./files/bilbao.jpg">Proof</a>.</li>
+          <li> In July 2023, I was a member of the organizing commitee of the <a href="https://easychair.org/cfp/EGC23">XX Spanish Meeting on Computational Geometry</a>, Universidade de Santiago de Compostela.</li>
+          <li> I am a member of the organizing committee of the event <a href="https://platformwiskunde.nl/2025/01/a-phd-is-that-for-me-2/">A PhD, is that for me?</a>, held at the Vrije Universiteit Amsterdam in January 2026 and February 2027.</li>
+          <li> Together with <a href="https://sites.google.com/view/miguelbarata/homepage">Miguel Barata</a>, we organized the <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorization homology seminar</a>, that took place in fall 2024 between the Vrije Universiteit Amsterdam and the Universiteit Utrecht.</li>
+          <li> I am a member of the PhD committee of the Mathematics department of the Vrije Universiteit Amsterdam. This committee is in charge of making sure that the PhDs in the department adhere to the faculty-wide regulations, as well as of implementing various measures related to the PhD trajectory: onboarding, trainings, teaching guidelines...</li>
+          <li> I was a member of Comissió de Qualitat at Universitat de Barcelona. This committee was in charge of preparing the Department of Mathematics and Computer Science for a quality evaluation in 2021.</li>
+          <li> I took several communication skills courses: “A redacción científica” and “Falar en público”, by Servizo de Normalización Lingüística (USC), of 25h each, and Young KWG Science Communication workshop.</li>
         </ul>
     </div>   
 

@@ -113,10 +113,6 @@ const enResearchPageData = {
           <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>Cobordism of nested manifolds</i>. <a href="https://www.youtube.com/watch?v=f_wVdzI1K3k">Proof</a>.</li>
           <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>Scissors congruence K-theory for equivariant manifolds</i>, with Ming Ng and Lucas Williams.</li>
           <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>
-          <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>A (very introductory) introduction to intersection (co)homology</i>.</li>
-          <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i> and <i>Sobre la zona de duda</i>.</li>
-          <li>[2022] Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>Modelando a teoría homotópica dos espazos vía posets</i>.</li>
-          <li>[2021] Círculo matemático virtual, online. <i>Topological Data Analysis</i>. <a href="https://www.instagram.com/p/CWLEvR1Ij2A/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==">Proof</a>.</li>
         </ul>
     </div>
       <div>
@@ -131,7 +127,7 @@ const enResearchPageData = {
         </ul>
     </div>
     <div>
-      <h4 style="font-size: 1.1rem "> Seminar talks </h4>
+      <h4 style="font-size: 1.1rem "> Local seminar talks </h4>
        <ul>
           <li>[2026] <a href="https://www.cta2.nl/spectral-sequence-reading-seminar/">Spectral Sequences Seminar</a>, Amsterdam. <i>Quillen's argument for homological stability</i>.</li>
           <li>[2026] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html">CTA2 Arbeitsgemeinschaft</a>, Amsterdam. <i>Bananas</i>.</li>
@@ -143,6 +139,9 @@ const enResearchPageData = {
           <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>Bananas</i>.</li>
           <li>[2023] Nutshell Seminar, Amsterdam. <i>Bananas in a nutshell</i>.</li>
           <li>[2023] <a href="https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html"> Arbeitsgemeinschaft Differential Topology</a>, Amsterdam. <i>The stability theorem</i>.</li>
+          <li>[2023] Topology Workshop, Universidade de Santiago de Compostela. <i>A (very introductory) introduction to intersection (co)homology</i>.</li>
+          <li>[2022] Seminario CIMAGROUP, Universidad de Sevilla. <i>Una introducción (muy introductoria) a la (co)homología de intersección</i> and <i>Sobre la zona de duda</i>.</li>
+          <li>[2022] Seminario de Topoloxía, Universidade de Santiago de Compostela. <i>Modelando a teoría homotópica dos espazos vía posets</i>.</li>
         </ul>
     </div>
     <div>
@@ -176,6 +175,7 @@ const enJobsPageData = {
           <li> [2023-26] <a href="https://sites.google.com/view/general-mathematics-colloquium/home">General Mathematics Colloquium</a>, Vrije Universiteit Amsterdam.</li>
           <li> [2023-26] Nutshell seminar, Vrije Universiteit Amsterdam.</li>
           <li> [2023-26] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>.</li>
+          <li< [2026] <a href="https://sites.google.com/vu.nl/cta2spatialstructures/">Conference on Spatial Structures</a>, VU Amsterdam.</li>
           <li> [2026] <a href="https://math-events.uni-bonn.de/event/917/">Young Women in Geometric Topology</a>, Hausdorff Institute (Bonn).</li>
           <li> [2026] <a href="https://www.math.ku.dk/english/calendar/events/ytm26/">Young Topologists Meeting</a>, Copenhagen.</li>
           <li> [2026] <a href="https://sites.google.com/view/european-talbot/2026-workshop">European Talbot Workshop - Algebraic and Geometric Surgery</a>, Kolding.</li>

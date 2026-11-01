@@ -30,8 +30,8 @@ $(document).ready(function () {
         url: "/conferences.html",
       },
       {
-        active: navbarLinks.contact ? true : false,
-        title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
+        active: navbarLinks.more ? true : false,
+        title: lang === "fa" ? faNavbarData.More : enNavbarData.More,
         url: "/more.html",
       },
     ],

@@ -4,7 +4,7 @@ const faNavbarData = {
   publications: "Escritos",
   Research: "Exposicións",
   Jobs: "Conferencias",
-  Contact: "Máis",
+  More: "Máis",
 };
 
 const faHomePageData = {

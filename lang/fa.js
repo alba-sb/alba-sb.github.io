@@ -56,7 +56,7 @@ const faPublicationsPageData = {
       writers: ["Mona Merling", "Ming Ng", "Julia Semikina", "Alba Sendón Blanco", "Lucas Williams"],
     },
      {
-      title: `La conjetura de Andrews Curtis`,
+      title: `La conjetura de Andrews Curtis.`,
       abstract: `Esta é unha adaptación do meu traballo de fin de grao, escrito baixo a supervisón de Enrique Macías Virgós e David Mosquera Lois.A conxectura de Andrews-Curtis foi proposta por James J. Andrews e Morton L. Curtis en 1965, é orixinalmente alxébrica e afirma que toda presentación balanceada do grupo trivial pode converterse (a través de transformacións de Andrews-Curtis) na presentación trivial. O noso obxectivo é mostrar dúas versións diferentes da conxectura de Andrews-Curtis, ambas cun enfoque topolóxico: unha para complexos simpliciais finitos e outra para posets finitos. Ademais, estableceremos a equivalencia entre elas.`,
       date: "2023",
       arxiv: "",
@@ -66,7 +66,7 @@ const faPublicationsPageData = {
       writers: ["Alba Sendón Blanco"],
     },
     {
-      title: `Modeling the homotopy theory of spaces via posets`,
+      title: `Modeling the homotopy theory of spaces via posets (Modelando a teoría de homotopía dos espazos vía posets).`,
       abstract: `Este é o meu traballo de fin de máster, escrito baixo a supervisión de Javier J. Gutiérrez Marín. O obxectivo deste proxecto é estudar as nocións básicas das estruturas de modelos de Quillen coma unha ferramenta esencial en topoloxía alxébrica e teoría de homotopía abstracta. Na primeira parte, centrarémonos nos conceptos necesarios en teoría de categorías e teoría de homotopía para entender a noción de estrutura de modelos e algunhas construcións e ferramentas fundamentais neste encadre. A segunda parte tratará con exemplos particulares de estruturas de modelos. Concretamente, estudaremos a estrutura de modelos de Thomason na categoría de categorías pequenas e como se relaciona coa estrutura de modelos de Kan-Quillen na categoría de conxuntos simpliciais vía unha equivalencia de categorías homotópicas, aportando un modelo para a teoría de homotopía dos espazos topolóxicos. Finalmente, describiremos como a categoría de conxuntos parcialmente ordenados herda esta estrutura de modelos, ofrecendo aínda outro modelo para a teoría de homotopía dos espazos. Ademais, analizaremos a relación entre esta estrutura e a dos espazos T0 de Alexandroff.`,
       date: "2022",
       arxiv: "",
@@ -76,7 +76,7 @@ const faPublicationsPageData = {
       writers: ["Alba Sendón Blanco"],
     },
     {
-      title: `A conxectura de Andrews-Curtis`,
+      title: `A conxectura de Andrews-Curtis.`,
       abstract: `Este é o meu traballo de fin de grao, escrito baixo a supervisón de Enrique Macías Virgós e David Mosquera Lois.A conxectura de Andrews-Curtis foi proposta por James J. Andrews e Morton L. Curtis en 1965, é orixinalmente alxébrica e afirma que toda presentación balanceada do grupo trivial pode converterse (a través de transformacións de Andrews-Curtis) na presentación trivial. O noso obxectivo é mostrar dúas versións diferentes da conxectura de Andrews-Curtis, ambas cun enfoque topolóxico: unha para complexos simpliciais finitos e outra para posets finitos. Ademais, estableceremos a equivalencia entre elas.`,
       date: "2021",
       arxiv: "",

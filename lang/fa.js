@@ -32,7 +32,7 @@ const faHomePageData = {
 };
 
 const faPublicationsPageData = {
-  type_one_title: "Publications and writing",
+  type_one_title: "Publicacións e escritos",
 
   type_one_items: [
     {
@@ -233,10 +233,10 @@ const faMorePageData = {
   content: `
     <div>
        <ul>
-          <li> En xaneiro 2025, fun integrante do comité organizador da sesión paralela <a href="https://jovenes2025.rsme.es/paralelaGT06.html">"Métodos categóricos y homotópicos"</a> do <a href="https://jovenes2025.rsme.es/paralelaGT06.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao. <a href="./files/bilbao.jpg">Proba</a>.</li>
-          <li> En xullo 2023, fun integrante do comité organizador do <a href="https://easychair.org/cfp/EGC23">XX Encuentro Español de Geometría Computacional</a>, Universidade de Santiago de Compostela.</li>
+          <li> En xaneiro de 2025, fun integrante do comité organizador da sesión paralela <a href="https://jovenes2025.rsme.es/paralelaGT06.html">"Métodos categóricos y homotópicos"</a> do <a href="https://jovenes2025.rsme.es/paralelaGT06.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Bilbao. <a href="./files/bilbao.jpg">Proba</a>.</li>
+          <li> En xullo de 2023, fun integrante do comité organizador do <a href="https://easychair.org/cfp/EGC23">XX Encuentro Español de Geometría Computacional</a>, Universidade de Santiago de Compostela.</li>
           <li> Son integrante do comité organizdador do evento <a href="https://platformwiskunde.nl/2025/01/a-phd-is-that-for-me-2/">A PhD, is that for me?</a>, que ten lugar na Vrije Universiteit Amsterdam en xaneiro 2026 e febreiro 2027.</li>
-          <li> Canda <a href="https://sites.google.com/view/miguelbarata/homepage">Miguel Barata</a>, organiamos o <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorization homology seminar</a>, que tivo lugar no outono de 2024 entre a Vrije Universiteit Amsterdam e a Universiteit Utrecht.</li>
+          <li> Canda <a href="https://sites.google.com/view/miguelbarata/homepage">Miguel Barata</a>, organizamos o <a href="https://sites.google.com/view/miguelbarata/seminar/factorisation-homology-seminar?authuser=0">Factorization homology seminar</a>, que tivo lugar no outono de 2024 entre a Vrije Universiteit Amsterdam e a Universiteit Utrecht.</li>
           <li> Son integrante do comité de doutoramento do departamento de Matemáticas da Vrije Universiteit Amsterdam. Este comité encárgase de facer o posible para que os estudantes de doutoramento no deparmento se adhiran ás regras a nivel da facultade, así como de implementar varias medidas relacionadas coa traxectoria de doutoramento: incorporación, formación, pautas de ensino...</li>
           <li> Fun integrante da Comissió de Qualitat na Universitat de Barcelona. Esta comisión encargouse de preparar o Departamento de Matemáticas e Enxeñería Informática para unha avaliación de calidade en 2021.</li>
           <li> Fixen varios cursos de comunicación: “A redacción científica” e “Falar en público”, do Servizo de Normalización Lingüística (USC), de 25h cada un, e Young KWG Science Communication workshop.</li>

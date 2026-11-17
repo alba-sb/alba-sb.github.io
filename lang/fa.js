@@ -104,6 +104,7 @@ const faResearchPageData = {
     <div>
       <h4 style="font-size: 1.1rem "> Charlas invitadas </h4>
        <ul>
+          <li>[2026] Mathematics Colloquium, Queen's University Belfast. <i>Cobordism of nested manifolds and links</i>.</li>
           <li>[2026] <a href="https://friday-fish.github.io/">Friday Fish Seminar</a>, Utrecht. <i>Cobordism of nested manifolds</i>. <a href="https://www.youtube.com/watch?v=f_wVdzI1K3k">Proba</a>.</li>
           <li>[2025] <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory</a>, Philadelphia. <i>Scissors congruence K-theory for equivariant manifolds</i>, con Ming Ng e Lucas Williams. <a href="./files/philly.jpg">Proba</a>.</li>
           <li>[2025] <a href="https://www.math.ru.nl/~sagave/past-topics.html">Topology Intercity Seminar (TopICS)</a>, Amsterdam. <i>Scissors congruence K-theory for equivariant manifolds</i>.</li>

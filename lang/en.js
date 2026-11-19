@@ -23,6 +23,7 @@ const enHomePageData = {
     <p><img src=../assets/images/icons/orcid.png alt="" width="30"> 0009-0008-0846-3276 </p>
     <h2 class='title'> News </h2>
     <ul>
+      <li> [November 2026] The popular science article <a href="https://chalkdustmagazine.com/read/issue-24/">Can you turn a beach ball into a rubber ring?</a> has been published in Chalkdust magazine.</li>
       <li> [June 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> has been accepted for publication in Topology and its applications.</li>
       <li> [December 2025] <a href="https://arxiv.org/abs/2512.18277">Cobordism of nested manifolds</a> has appeared on the arXiv.</li>
       <li> [September 2025] I will be spending three months in the <a href="https://geotop.math.ku.dk/">Copenhagen Centre for Geometry and Topology</a>.</li>
@@ -40,6 +41,17 @@ const enPublicationsPageData = {
   type_one_title: "Publications and writing",
 
   type_one_items: [
+    {
+      title: `Can you turn a beach ball into a rubber ring?`,
+      abstract: `This is a popular science article. Imagine that you are sunbathing at the beach: the smell of the salty water, the sound of the waves... The peace is broken by a child crying: they cannot swim because they’ve forgotten their inflatable ring. “I have some scissors and glue in my bag,” you tell your friend. “Do you think we can turn our beach ball into a ring?”. “No, that is mathematically impossible!”, your friend answers. It turns out that this challenge is related to a famous problem posed by David Hilbert. The resolution involves the Euler characteristic, so we have a lot to cover before we can go back to relaxing.`,
+      date: "2026",
+      arxiv: "",
+      journalname: "Chalkdust magazine",
+      journallink: "https://chalkdustmagazine.com/read/issue-24/",
+      link: "",
+      writers: ["Alba Sendón Blanco"],
+    },
+    
     {
       title: `Cobordism of nested manifolds.`,
       abstract: `We study cobordisms of nested manifolds, which are manifolds together with embedded submanifolds, which can themselves have embedded submanifolds, etc. We identify a nested analog of the Pontryagin-Thom construction. Moreover, when the highest-dimensional manifold has a normal bundle with a framed direction, we find spaces homotopy equivalent to the nested Pontryagin-Thom spaces that relate nested manifolds up to cobordism with links up to cobordism. This gives rise to nested cobordism invariants coming from previously studied cobordism invariants of links. In addition, we provide an alternative proof of a result by Wall about the splitting of the stable nested cobordism groups.`,

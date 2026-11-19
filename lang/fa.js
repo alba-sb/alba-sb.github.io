@@ -21,6 +21,7 @@ const faHomePageData = {
     <p><img src=../assets/images/icons/orcid.png alt="" width="30"> 0009-0008-0846-3276 </p>
     <h2 class='title'> Novas </h2>
     <ul>
+      <li> [Novembro 2026] O artigo the divulgación <a href="https://chalkdustmagazine.com/read/issue-24/">Can you turn a beach ball into a rubber ring?</a> foi publicado en Chalkdust magazine.</li>
       <li> [Xuño 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> foi aceptado para publicación en Topology and its applications.</li>
       <li> [Decembro 2025] <a href="https://arxiv.org/abs/2512.18277">Cobordism of nested manifolds</a> apareceu no arXiv.</li>
       <li> [Setembro 2025] Pasarei tres meses no <a href="https://geotop.math.ku.dk/">Copenhagen Centre for Geometry and Topology</a>.</li>
@@ -35,6 +36,17 @@ const faPublicationsPageData = {
   type_one_title: "Publicacións e escritos",
 
   type_one_items: [
+    {
+      title: `Can you turn a beach ball into a rubber ring? (Podes convertir unha pelota de praia nun flotador?)`,
+      abstract: `Este é un artigo de divulgación. Imaxina que estás tomando o sol na praia: o recendo da auga salgada, o son das ondas... A paz rómpese por un neno chorando: non pode nadar porque esqueceu o seu flotador inchable. “Teño unhas tesoiras e unha barra de pegamento no bolso,” dislle á túa amiga. “Achas que podemos convertir a nosa pelota de praia nun flotador?”. “Non, iso é matemáticamente imposible!”, contesta a túa amiga. Resulta que este reto ten moito que ver cun famoso problema plantexado por David Hilbert. A súa resolución involucra a característica de Euler, así que temos moitas cousas que aprender antes de poder volver a relaxarnos.`,
+      date: "2026",
+      arxiv: "",
+      journalname: "Chalkdust magazine",
+      journallink: "https://chalkdustmagazine.com/read/issue-24/",
+      link: "",
+      writers: ["Alba Sendón Blanco"],
+    },
+    
     {
       title: `Cobordism of nested manifolds (Cobordismo de variedades aniñadas).`,
       abstract: `Estudamos cobordisms de variedades aniñadas, que son variedades con subvariedades mergulladas, que poden á súa vez ter subvariedades aniñadas, etc. Identificamos un análogo da construción de Pontryagin-Thom para variedades aniñadas. Ademais, cando a variedade de maior dimensión ten un fibrado normal cunha dirección enmarcada, atopamos espazos homotópicamente equivalentes ós espazos de Pontryagin-Thom aniñados que relacionan as variedades aniñadas salvo cobordismo con enlaces salvo cobordismo. Isto dá lugar a invariantes de cobordismo aniñado que veñen de invariantes de cobordismo de enlaces previamente estudadas. Tamén aportamos unha proba alternativa dun resultado de Wall sobre a escisión dos grupos de cobordismo aniñado estable.`,

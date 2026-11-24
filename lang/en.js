@@ -23,7 +23,7 @@ const enHomePageData = {
     <p><img src=../assets/images/icons/orcid.png alt="" width="30"> 0009-0008-0846-3276 </p>
     <h2 class='title'> News </h2>
     <ul>
-      <li> [November 2026] The popular science article <a href="https://chalkdustmagazine.com/read/issue-24/">Can you turn a beach ball into a rubber ring?</a> has been published in Chalkdust magazine.</li>
+      <li> [November 2026] The popular science article <a href="https://chalkdustmagazine.com/features/can-you-turn-a-beach-ball-into-a-rubber-ring/">Can you turn a beach ball into a rubber ring?</a> has been published in Chalkdust magazine.</li>
       <li> [June 2026] <a href="https://www.sciencedirect.com/science/article/pii/S0166864126001665">Cobordism of nested manifolds</a> has been accepted for publication in Topology and its applications.</li>
       <li> [December 2025] <a href="https://arxiv.org/abs/2512.18277">Cobordism of nested manifolds</a> has appeared on the arXiv.</li>
       <li> [September 2025] I will be spending three months in the <a href="https://geotop.math.ku.dk/">Copenhagen Centre for Geometry and Topology</a>.</li>
@@ -47,7 +47,7 @@ const enPublicationsPageData = {
       date: "2026",
       arxiv: "",
       journalname: "Chalkdust magazine",
-      journallink: "https://chalkdustmagazine.com/read/issue-24/",
+      journallink: "https://chalkdustmagazine.com/features/can-you-turn-a-beach-ball-into-a-rubber-ring/",
       link: "",
       writers: ["Alba Sendón Blanco"],
     },
